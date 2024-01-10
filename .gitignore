@@ -1,0 +1,12 @@
+logs
+target
+.idea
+.idea-run
+.metals
+.bloop
+.vscode
+.bsp
+out
+RUNNING_PID
+*/conf/environment-specific
+*/resources/environment-specific
